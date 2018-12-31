@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Chapter5" />
+        <module name="Chapter8" />
+        <module name="HttpClient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_111111111111111" target="1.5" />
+      <module name="AutoTest" target="1.5" />
+      <module name="Chapter5" target="1.5" />
+      <module name="Chapter6" target="1.5" />
+      <module name="Chapter7" target="1.5" />
+      <module name="Chapter8" target="1.5" />
+      <module name="HttpClient" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

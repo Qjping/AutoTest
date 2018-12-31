@@ -1,0 +1,29 @@
+[
+  {
+    "description":"重定向到百度",
+    "request":{
+      "uri":"/redirect"
+    },
+    "redirectTo":"http://www.wconcept.cn"
+  },
+  {
+    "description":"重定向到自己的网页",
+    "request":{
+      "uri":"/redirect/path"
+    },
+    "redirectTo":"/redurect/new"
+  },
+  {
+    "description":"这是被重定向到的请求",
+    "request":{
+      "uri":"/redurect/new"
+    },
+    "response":{
+      "text":"重定向成功了",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  }
+
+]

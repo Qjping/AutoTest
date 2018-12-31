@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoTest.iml" filepath="$PROJECT_DIR$/.idea/AutoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNGMethod/Chapter5.iml" filepath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" filepath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpClient/HttpClient.iml" filepath="$PROJECT_DIR$/HttpClient/HttpClient.iml" />
+    </modules>
+  </component>
+</project>

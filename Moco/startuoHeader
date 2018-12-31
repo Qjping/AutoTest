@@ -1,0 +1,22 @@
+[
+  {
+    "description": "模拟一个post带参数请求",
+    "request": {
+      "uri": "/post/header",
+      "method": "post",
+      "headers":{
+        "content-type":"application/json"
+      },
+      "forms": {
+        "name": "jack",
+        "age": "1"
+      }
+    },
+    "response":{
+      "text":"带头信息的响应",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  }
+]
