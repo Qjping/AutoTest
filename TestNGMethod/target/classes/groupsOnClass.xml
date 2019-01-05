@@ -3,9 +3,9 @@
 <suite name="suitename">
     <test name="runAll">
         <classes>
-            <class name="com.course.testng.groups.GroupsOnClass1"/>
-            <class name="com.course.testng.groups.GroupsOnClass2"/>
-            <class name="com.course.testng.groups.GroupsOnClass3"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass1"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass2"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass3"/>
         </classes>
 
     </test>
@@ -19,9 +19,9 @@
         </groups>
 
         <classes>
-            <class name="com.course.testng.groups.GroupsOnClass1"/>
-            <class name="com.course.testng.groups.GroupsOnClass2"/>
-            <class name="com.course.testng.groups.GroupsOnClass3"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass1"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass2"/>
+            <class name="com.testng.extendReport.demo.testng.groups.GroupsOnClass3"/>
         </classes>
 
     </test>

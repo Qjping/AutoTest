@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/TestNGMethod/Chapter5.iml" filepath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" filepath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" />
       <module fileurl="file://$PROJECT_DIR$/HttpClient/HttpClient.iml" filepath="$PROJECT_DIR$/HttpClient/HttpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mybatis/Mybatis.iml" filepath="$PROJECT_DIR$/Mybatis/Mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springbootdemo/Springbootdemo.iml" filepath="$PROJECT_DIR$/Springbootdemo/Springbootdemo.iml" />
     </modules>
   </component>
 </project>

@@ -13,6 +13,8 @@
     </test>
     <listeners>
 
-        /*<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>
+        <!--<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>!-->
+       <listener class-name="com.testng.extendReport.demo.ExtentTestNGIReporterListener"></listener>
+
     </listeners>
 </suite>

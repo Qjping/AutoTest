@@ -16,21 +16,21 @@
 
     <test name = "demo1">
         <classes >
-            <class name="com.course.testng.multiThread.MultiThreadOnXml"/>
-            <class name="com.course.testng.BasicAnnotation"/>
-            <class name="com.course.testng.multiThread.MultiThreadOnXml"/>
+            <class name="com.testng.extendReport.demo.testng.multiThread.MultiThreadOnXml"/>
+            <class name="com.testng.extendReport.demo.testng.BasicAnnotation"/>
+            <class name="com.testng.extendReport.demo.testng.multiThread.MultiThreadOnXml"/>
         </classes>
         <classes >
-            <class name="com.course.testng.multiThread.MultiThreadOnXml"/>
-            <class name="com.course.testng.BasicAnnotation"/>
-            <class name="com.course.testng.multiThread.MultiThreadOnXml"/>
+            <class name="com.testng.extendReport.demo.testng.multiThread.MultiThreadOnXml"/>
+            <class name="com.testng.extendReport.demo.testng.BasicAnnotation"/>
+            <class name="com.testng.extendReport.demo.testng.multiThread.MultiThreadOnXml"/>
         </classes>
 
     </test>
 
     <test name = "demo2">
         <classes name="d3">
-            <class name="com.course.testng.BasicAnnotation"/>
+            <class name="com.testng.extendReport.demo.testng.BasicAnnotation"/>
         </classes>
 
     </test>

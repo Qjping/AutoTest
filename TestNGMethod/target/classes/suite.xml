@@ -3,14 +3,14 @@
 
     <test name="login">
         <classes>
-            <class name="com.course.testng.suite.SuiteConfig"/>
-            <class name="com.course.testng.suite.LoginTest"/>
+            <class name="com.testng.extendReport.demo.testng.suite.SuiteConfig"/>
+            <class name="com.testng.extendReport.demo.testng.suite.LoginTest"/>
         </classes>
     </test>
     <test name="pay">
         <classes>
-            <class name="com.course.testng.suite.SuiteConfig"/>
-            <class name="com.course.testng.suite.PayTest"/>
+            <class name="com.testng.extendReport.demo.testng.suite.SuiteConfig"/>
+            <class name="com.testng.extendReport.demo.testng.suite.PayTest"/>
         </classes>
     </test>
 </suite>
