@@ -19,9 +19,9 @@
         <module>TestNGExtendReport</module>
         <module>TestNGMethod</module>
         <module>Springbootdemo</module>
-        <module>mybatis</module>
         <module>Mybatis</module>
-
+        <module>MybatisUseMysql</module>
+        <module>MySpringMyBatisTestNg</module>
 
     </modules>
     <dependencies>

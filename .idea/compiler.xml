@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,19 +11,20 @@
         <module name="Chapter8" />
         <module name="HttpClient" />
         <module name="Mybatis" />
+        <module name="MybatisUseMysql" />
+        <module name="MySpringMyBatisTestNg" />
+        <module name="MysqlAndMybatis" />
         <module name="Springbootdemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="_111111111111111" target="1.5" />
       <module name="AutoTest" target="1.8" />
       <module name="Chapter5" target="1.8" />
-      <module name="Chapter6" target="1.5" />
-      <module name="Chapter7" target="1.5" />
       <module name="Chapter8" target="1.8" />
       <module name="HttpClient" target="1.8" />
-      <module name="mybatis" target="1.8" />
       <module name="Mybatis" target="1.8" />
+      <module name="MybatisUseMysql" target="1.6" />
+      <module name="MySpringMyBatisTestNg" target="1.8" />
       <module name="Springbootdemo" target="1.8" />
     </bytecodeTargetLevel>
   </component>

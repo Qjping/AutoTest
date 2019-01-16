@@ -18,6 +18,7 @@ public class Demo {
     }
     @PostMapping(value="/addUser")
     public int postAddUser(@RequestBody User user){
+
         return template.insert("addUser",user);
     }
 
@@ -31,6 +32,8 @@ public class Demo {
         if(id<0){
             return -1;
         }
+
+        
         return  template.delete("delUser",id);
     }
 }

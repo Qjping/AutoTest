@@ -1,0 +1,449 @@
+2019-01-15 19:27:49.351 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16h56m48s917ms370µs488ns).
+2019-01-15 20:38:46.705 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 20:38:46.856 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 20:38:46.914 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 20:38:48.985 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:38:51.126 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:38:53.175 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：58
+2019-01-15 20:39:16.634 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 20:39:16.899 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 20:39:16.978 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 20:39:19.067 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:39:21.209 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:39:23.261 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 20:52:13.608 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 20:52:13.764 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 20:52:13.842 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 20:52:15.921 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:52:18.053 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:52:20.105 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 20:53:54.529 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 20:53:54.855 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 20:53:54.949 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 20:53:57.035 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:53:59.195 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:54:01.250 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 20:57:43.428 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 20:57:43.599 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 20:57:43.692 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 20:57:45.786 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:57:47.947 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 20:57:50.013 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:00:01.431 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:00:01.611 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:00:01.695 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:00:03.771 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:00:05.913 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:00:07.977 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:00:18.072 [main] INFO  com.course.application - Starting application on AFOIG-801172222 with PID 13580 (C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MySpringMyBatisTestNg\target\classes started by Administrator in C:\Users\Administrator\.ssh\workspace\muke\AutoTest)
+2019-01-15 21:00:18.080 [main] INFO  com.course.application - No active profile set, falling back to default profiles: default
+2019-01-15 21:00:19.568 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-01-15 21:00:19.975 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bc9eea50] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 21:00:20.340 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8889 (http)
+2019-01-15 21:00:20.371 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-01-15 21:00:20.372 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-15 21:00:20.381 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;F:\python2\Scripts;F:\python2;C:\Users\Administrator\Desktop\adb1.0.32;C:\Users\Administrator\Desktop\ADB1;C:\Users\Administrator\Desktop\apache-jmeter-4.0\bin;E:\apache-ant-1.10.4\bin;C:\Users\Administrator\Desktop\apache-maven-3.5.4\bin;E:\Git\cmd;D:\Program Files\PYTHON\python3.7\Scripts\;D:\Program Files\PYTHON\python3.7\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;F:\fiddler;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;.]
+2019-01-15 21:00:20.530 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-01-15 21:00:20.530 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2242 ms
+2019-01-15 21:00:21.653 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-15 21:00:22.643 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-15 21:00:22.699 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-01-15 21:00:22.752 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-01-15 21:00:22.773 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-01-15 21:00:22.787 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-01-15 21:00:23.105 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8889 (http) with context path ''
+2019-01-15 21:00:23.109 [main] INFO  com.course.application - Started application in 6.298 seconds (JVM running for 7.984)
+2019-01-15 21:00:23.685 [cluster-ClusterId{value='5c3dd9667e0418350c765b59', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:67)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:126)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:117)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:64)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:62)
+	... 3 common frames omitted
+2019-01-15 21:00:31.184 [http-nio-8889-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-01-15 21:00:31.184 [http-nio-8889-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-01-15 21:00:31.197 [http-nio-8889-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 13 ms
+2019-01-15 21:00:31.332 [http-nio-8889-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-01-15 21:00:31.492 [http-nio-8889-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-01-15 21:00:31.550 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:00:31.728 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:00:31.810 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:00:33.902 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:00:36.044 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:00:38.094 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:01:31.107 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:01:31.294 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:01:31.450 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:01:33.521 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:01:35.669 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:01:37.731 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:06:11.642 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:06:11.886 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:06:12.011 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:06:14.092 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:06:16.259 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:06:18.318 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:06:51.765 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:06:52.083 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:06:52.162 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:06:54.246 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:06:56.410 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:06:58.492 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:07:11.876 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:07:12.086 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:07:12.252 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:07:14.321 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:07:16.450 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:07:18.511 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:07:57.471 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:07:57.773 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:07:57.849 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:07:59.934 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:08:02.106 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:08:04.183 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:08:37.328 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:08:37.683 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:08:37.761 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:08:39.823 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:08:41.992 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:08:44.047 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:11:03.602 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:11:03.800 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:11:03.940 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:11:05.997 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:11:08.347 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:11:10.423 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:11:39.124 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:11:39.296 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:11:39.374 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:11:41.451 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:11:43.583 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:11:45.630 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:13:42.009 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:13:42.245 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:13:42.339 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:13:44.387 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:13:46.589 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:13:48.652 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:15:49.278 [main] INFO  com.course.application - Starting application on AFOIG-801172222 with PID 13420 (C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MySpringMyBatisTestNg\target\classes started by Administrator in C:\Users\Administrator\.ssh\workspace\muke\AutoTest)
+2019-01-15 21:15:49.284 [main] INFO  com.course.application - No active profile set, falling back to default profiles: default
+2019-01-15 21:15:50.859 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2019-01-15 21:15:51.216 [main] INFO  o.s.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d338a583] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-01-15 21:15:51.545 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8889 (http)
+2019-01-15 21:15:51.576 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-01-15 21:15:51.576 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-15 21:15:51.576 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;F:\python2\Scripts;F:\python2;C:\Users\Administrator\Desktop\adb1.0.32;C:\Users\Administrator\Desktop\ADB1;C:\Users\Administrator\Desktop\apache-jmeter-4.0\bin;E:\apache-ant-1.10.4\bin;C:\Users\Administrator\Desktop\apache-maven-3.5.4\bin;E:\Git\cmd;D:\Program Files\PYTHON\python3.7\Scripts\;D:\Program Files\PYTHON\python3.7\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;F:\fiddler;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;.]
+2019-01-15 21:15:51.701 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-01-15 21:15:51.701 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2348 ms
+2019-01-15 21:15:52.767 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-15 21:15:53.714 [main] INFO  org.mongodb.driver.cluster - Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+2019-01-15 21:15:53.776 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2019-01-15 21:15:53.823 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-01-15 21:15:53.851 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-01-15 21:15:53.866 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-01-15 21:15:54.157 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8889 (http) with context path ''
+2019-01-15 21:15:54.157 [main] INFO  com.course.application - Started application in 5.655 seconds (JVM running for 7.068)
+2019-01-15 21:15:54.784 [cluster-ClusterId{value='5c3ddd097e0418346cbd3ef1', description='null'}-localhost:27017] INFO  org.mongodb.driver.cluster - Exception in monitor thread while connecting to server localhost:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:67)
+	at com.mongodb.internal.connection.InternalStreamConnection.open(InternalStreamConnection.java:126)
+	at com.mongodb.internal.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:117)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.internal.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:64)
+	at com.mongodb.internal.connection.SocketStream.open(SocketStream.java:62)
+	... 3 common frames omitted
+2019-01-15 21:16:02.325 [http-nio-8889-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-01-15 21:16:02.325 [http-nio-8889-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-01-15 21:16:02.341 [http-nio-8889-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 16 ms
+2019-01-15 21:16:02.450 [http-nio-8889-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-01-15 21:16:02.606 [http-nio-8889-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-01-15 21:16:02.660 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:16:02.875 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:16:02.966 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:16:05.044 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:16:07.190 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:16:09.256 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:16:36.318 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:16:36.529 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:16:36.618 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:16:38.716 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:16:40.905 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:16:42.963 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:17:43.521 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:17:43.678 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:17:43.756 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:17:45.823 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:17:47.961 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:17:50.043 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:19:11.105 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:19:11.270 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:19:11.332 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:19:13.402 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:19:15.528 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:19:17.605 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:22:35.481 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:22:35.747 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:22:35.829 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:22:37.915 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:22:40.136 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:22:42.191 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:25:33.560 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:25:33.747 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:25:33.859 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:25:35.936 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:25:38.100 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:25:40.155 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:27:28.466 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:27:28.622 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:27:28.690 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:27:28.784 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:27:30.917 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:27:32.963 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:28:32.178 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:28:32.334 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:28:32.412 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:28:32.506 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:28:34.649 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:28:36.705 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:30:47.254 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:30:47.473 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:30:47.613 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:30:47.739 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:30:49.874 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:30:51.935 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:31:39.433 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:31:39.745 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:31:39.808 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:31:39.995 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:31:42.155 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:31:44.285 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:32:34.900 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:32:35.099 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:32:35.162 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:32:35.267 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:32:37.450 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:32:39.498 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:34:41.830 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:34:42.099 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:34:42.201 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:34:42.293 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:34:44.470 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:34:46.522 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:36:13.295 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:36:13.553 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:36:13.646 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:36:13.788 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:36:15.953 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:36:18.023 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:39:07.187 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:39:07.374 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:39:07.453 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:39:07.578 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:39:09.726 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:39:11.786 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:41:36.307 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:41:36.479 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:41:36.557 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:41:36.698 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:41:38.854 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:41:40.915 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:42:43.967 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:42:44.150 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:42:44.210 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:42:44.289 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:42:46.435 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:42:48.492 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:43:57.890 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:43:58.161 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:43:58.270 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:43:58.411 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:44:00.542 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:44:02.598 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:44:26.979 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:44:27.172 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:44:27.281 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:44:27.390 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:44:29.552 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:44:31.632 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:45:07.348 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:45:07.552 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:45:07.622 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:45:07.721 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:45:09.890 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:45:11.939 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:45:31.242 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:45:31.398 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:45:31.477 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:45:31.586 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:45:33.724 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:45:35.773 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:46:11.256 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:46:11.459 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:46:11.537 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:46:11.662 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:46:13.817 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:46:15.866 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:47:56.014 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:47:56.192 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:47:56.270 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:47:56.364 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:47:58.494 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:48:00.544 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:48:21.878 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:48:22.098 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:48:22.207 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:48:22.332 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:48:24.476 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:48:26.538 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:48:45.624 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:48:45.874 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:48:46.015 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:48:46.145 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:48:48.309 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:48:50.356 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:49:38.322 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:49:38.509 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:49:38.572 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:49:38.650 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:49:40.819 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:49:42.865 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:55:36.287 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:55:36.425 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:55:36.485 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:55:36.570 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:55:38.724 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:55:40.786 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:57:14.757 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:57:15.016 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:57:15.150 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:57:15.250 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:57:17.394 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:57:19.445 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:57:55.461 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:57:55.633 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:57:55.727 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:57:55.820 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:57:57.977 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:58:00.039 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 21:58:09.869 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 21:58:10.037 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 21:58:10.113 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 21:58:10.223 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:58:12.384 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 21:58:14.446 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:04:10.511 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:04:10.683 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:04:10.761 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:04:10.870 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:04:12.987 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:04:15.036 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:04:35.490 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:04:35.677 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:04:35.755 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:04:35.852 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:04:37.970 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:04:40.024 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:05:25.402 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:05:25.605 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:05:25.684 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:05:25.793 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:05:27.929 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:05:29.979 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:09:10.508 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:09:10.696 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:09:10.774 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:09:10.888 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:09:13.021 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:09:15.083 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:10:43.780 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:10:43.939 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:10:44.002 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:10:44.106 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:10:46.289 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:10:48.351 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:12:45.557 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:12:45.729 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:12:45.838 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:12:45.933 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:12:48.118 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:12:50.166 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:14:13.884 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:14:14.136 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:14:14.230 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:14:14.355 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:14:16.464 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:14:18.523 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:24:35.342 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:24:35.561 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:24:35.629 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:24:35.738 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:24:37.867 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:24:39.910 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:25:43.711 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:25:43.892 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:25:43.967 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:25:44.068 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:25:46.200 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:25:48.247 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:38:15.010 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:38:15.245 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:38:15.334 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:38:15.428 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:38:17.578 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:38:19.633 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:38:48.670 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:38:48.856 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:38:48.924 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:38:49.018 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:38:51.160 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:38:53.205 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:43:23.040 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:43:23.181 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:43:23.250 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:43:23.367 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:43:25.502 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:43:27.544 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:44:23.287 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:44:23.607 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:44:23.697 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:44:23.781 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:44:25.940 [http-nio-8889-exec-4] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:44:27.979 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:48:22.655 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:48:22.815 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:48:22.889 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:48:22.979 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:48:25.114 [http-nio-8889-exec-2] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:48:27.156 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:48:56.128 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:48:56.265 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:48:56.344 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:48:56.439 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:48:58.578 [http-nio-8889-exec-10] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:49:00.625 [http-nio-8889-exec-1] INFO  com.course.controller.UserManager - 获取到的用户数量是：4
+2019-01-15 22:50:35.088 [http-nio-8889-exec-3] INFO  com.course.controller.UserManager - 登录的用户：zhangsan
+2019-01-15 22:50:35.316 [http-nio-8889-exec-5] INFO  com.course.controller.UserManager - 添加用户的数量：1
+2019-01-15 22:50:35.432 [http-nio-8889-exec-6] INFO  com.course.controller.UserManager - 获取到的用户数量是：1
+2019-01-15 22:50:35.558 [http-nio-8889-exec-7] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:50:37.686 [http-nio-8889-exec-8] INFO  com.course.controller.UserManager - 更新的数据数量：1
+2019-01-15 22:50:39.727 [http-nio-8889-exec-9] INFO  com.course.controller.UserManager - 获取到的用户数量是：4

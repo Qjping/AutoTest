@@ -1,129 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8521100-a19b-4fb4-bcda-13150b4f5f4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20180813.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HttpClient/src/main/java/com/course/httpclient/cookies/CookiesforPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/Mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/Springbootdemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/model/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/resources/application.yml" afterDir="false" />
+    <list default="true" id="e8521100-a19b-4fb4-bcda-13150b4f5f4c" name="Default Changelist" comment="mybatis的第一个demo">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/controller/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/MybatisUseMysql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/TestNGMyBatisSpringBoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/AddUserCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserListCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/LoginCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/UpdateUserInfoCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabaseUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/userManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/userManager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/event.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/mylog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/userManager.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../confi" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../id_rsa" beforeDir="false" afterPath="$PROJECT_DIR$/../../../id_rsa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../id_rsa.pub" beforeDir="false" afterPath="$PROJECT_DIR$/../../../id_rsa.pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_25_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/HttpClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/HttpClient.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/cookies/CookiesforGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/cookies/CookiesforGet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/demo/httpclientDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/demo/httpclientDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Moco/startupWhitCookies" beforeDir="false" afterPath="$PROJECT_DIR$/Moco/startupWhitCookies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/TestMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/TestMethodDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/Paramter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/Paramter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/groupsOnClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/groupsOnClass.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/multiThread.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter6/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter6/.idea/misc.xml" beforeDir="false" />
@@ -144,6 +95,13 @@
     <ignored path="$PROJECT_DIR$/TestNGExtendReport/target/" />
     <ignored path="$PROJECT_DIR$/Springbootdemo/target/" />
     <ignored path="$PROJECT_DIR$/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/MybatisMysqlCase/target/" />
+    <ignored path="$PROJECT_DIR$/MybatisMysql/target/" />
+    <ignored path="$PROJECT_DIR$/MysqlAndMybatis/target/" />
+    <ignored path="$PROJECT_DIR$/MybatisUseMysql/target/" />
+    <ignored path="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/target/" />
+    <ignored path="$PROJECT_DIR$/TestNGMyBatisSpringBoot/target/" />
+    <ignored path="$PROJECT_DIR$/MySpringMyBatisTestNg/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,72 +111,117 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AutoTest$C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml.ic" NAME="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml Coverage Results" MODIFIED="1547641536892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AutoTest$LoginTest.ic" NAME="LoginTest Coverage Results" MODIFIED="1547380603911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.course.cases.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="183" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-828254510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="21" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.90" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="2019-01-10" value="1" />
+          <entry key="2019-01-13" value="1" />
+          <entry key="SQLMapper" value="9" />
           <entry key="SpringLocalModels/module=Springbootdemo" value="1" />
-          <entry key="class" value="64" />
+          <entry key="class" value="109" />
+          <entry key="databaseConfig" value="7" />
           <entry key="html" value="13" />
-          <entry key="iml" value="8" />
-          <entry key="java" value="81" />
-          <entry key="json" value="3" />
+          <entry key="iml" value="16" />
+          <entry key="java" value="329" />
+          <entry key="json" value="12" />
           <entry key="log" value="3" />
-          <entry key="pom" value="2" />
-          <entry key="properties" value="4" />
+          <entry key="pom" value="4" />
+          <entry key="properties" value="17" />
           <entry key="startuoHeader" value="1" />
           <entry key="startupWhitCookies" value="1" />
-          <entry key="xml" value="48" />
-          <entry key="yaml" value="1" />
-          <entry key="yml" value="2" />
-          <entry key="基本操作说明" value="3" />
+          <entry key="testng" value="10" />
+          <entry key="xml" value="133" />
+          <entry key="yaml" value="8" />
+          <entry key="yml" value="3" />
+          <entry key="基本操作说明" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="64" />
+          <entry key="CLASS" value="109" />
           <entry key="HTML" value="13" />
-          <entry key="IDEA_MODULE" value="8" />
-          <entry key="JAVA" value="81" />
-          <entry key="JSON" value="3" />
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Properties" value="4" />
+          <entry key="IDEA_MODULE" value="16" />
+          <entry key="JAVA" value="329" />
+          <entry key="JSON" value="12" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Properties" value="17" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="50" />
-          <entry key="YAML" value="3" />
+          <entry key="XML" value="163" />
+          <entry key="YAML" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="SQLMapper" value="91" />
+          <entry key="databaseConfig" value="1" />
+          <entry key="dummy" value="6" />
           <entry key="html" value="5" />
-          <entry key="java" value="4779" />
-          <entry key="json" value="65" />
-          <entry key="properties" value="52" />
-          <entry key="xml" value="1152" />
-          <entry key="yaml" value="626" />
+          <entry key="java" value="8767" />
+          <entry key="json" value="66" />
+          <entry key="properties" value="53" />
+          <entry key="testng" value="27" />
+          <entry key="txt" value="15" />
+          <entry key="xml" value="3122" />
+          <entry key="yaml" value="864" />
           <entry key="yml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="5" />
-          <entry key="JAVA" value="4779" />
-          <entry key="JSON" value="65" />
-          <entry key="Properties" value="52" />
-          <entry key="XML" value="1152" />
-          <entry key="YAML" value="634" />
+          <entry key="JAVA" value="8767" />
+          <entry key="JSON" value="66" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Properties" value="53" />
+          <entry key="SQL" value="26" />
+          <entry key="XML" value="3215" />
+          <entry key="YAML" value="872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.core.usages.trigger">
@@ -230,75 +233,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="100">
+              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.1.RELEASE/spring-boot-dependencies-2.1.1.RELEASE.pom">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62650">
-              <caret line="2506" column="12" selection-start-line="2506" selection-start-column="12" selection-end-line="2506" selection-end-column="12" />
+            <state relative-caret-position="67">
+              <caret line="500" selection-start-line="500" selection-end-line="500" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/application.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/logback.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="7" lean-forward="true" selection-end-line="46" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/event.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/logs/mylog.log">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="22" />
+            <state relative-caret-position="-259">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -306,15 +263,71 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="20" />
+            <state relative-caret-position="25">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="992">
+              <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-384">
+              <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+              <folding>
+                <element signature="e#13541#13542#0" expanded="true" />
+                <element signature="e#13596#13597#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -334,6 +347,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>charset</find>
+      <find>tester</find>
+      <find>login</find>
+      <find>sex</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -342,59 +358,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListener1.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/testng/extendReport/demo/ExtentTestNGReportListener.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListener.java" />
-        <option value="$PROJECT_DIR$/Chapter8/src/main/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/TestNGMethod/pom.xml" />
-        <option value="$PROJECT_DIR$/TestNGExtendReport/pom.xml" />
-        <option value="$PROJECT_DIR$/TestNGExtendReport/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListener.java" />
-        <option value="$PROJECT_DIR$/HttpClient/pom.xml" />
-        <option value="$PROJECT_DIR$/Moco/基本操作说明" />
-        <option value="$PROJECT_DIR$/HttpClient/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/Moco/startupWhitCookies.json" />
-        <option value="$PROJECT_DIR$/HttpClient/src/main/java/com/course/httpclient/cookies/CookiesforPost.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/springDemo.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/hello.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/application1.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/Services/MyGet.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/Services/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/model/MyGet.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/com/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/com/model/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/com/model/Services/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/MyGet.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/model/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/model/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/model/MyGet.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/model/MyPost.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/bean/User.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/Application.java" />
-        <option value="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyPost.java" />
-        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/package.json" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/mybatis-config.xml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/mapping/mysql.xml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/com/course/Application.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/com/course/controller/Demo.java" />
-        <option value="$PROJECT_DIR$/Mybatis/src/main/resources/logback.log" />
-        <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/model/mysql.xml" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/crotroller/Demo.java" />
-        <option value="$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml" />
         <option value="$PROJECT_DIR$/Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java" />
+        <option value="$PROJECT_DIR$/MybatisMysql/src/main/java/course/util/Config.java" />
+        <option value="$PROJECT_DIR$/MybatisMysql/src/main/java/com/course/util/Config.java" />
+        <option value="$PROJECT_DIR$/MybatisMysqlCase/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisMysql/src/main/java/com/course/util/DatabaseUtil.java" />
+        <option value="$PROJECT_DIR$/MybatisMysql/pom.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/MysqlAndMybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/course/util/Config.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/Config.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabseUtil.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/LoginCase.java" />
+        <option value="$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/userManager.json" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/LoginTest.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/TestConfig.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/ConfigFile.java" />
+        <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/controller/UserManager.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabaseUtil.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/AddUserCase.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/UpdateUserInfoCase.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserListCase.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/model/User.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/User.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" />
       </list>
     </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml" />
+    </enabled-run-configurations>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -414,11 +435,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Springbootdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="MybatisUseMysql" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Springbootdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="MybatisUseMysql" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -426,19 +447,19 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-97" />
-    <option name="y" value="-4" />
+    <option name="x" value="27" />
+    <option name="y" value="23" />
     <option name="width" value="1386" />
-    <option name="height" value="731" />
+    <option name="height" value="788" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -455,25 +476,25 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -481,7 +502,7 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -490,7 +511,109 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -500,7 +623,17 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="course" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -508,20 +641,36 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -530,36 +679,39 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546693628215" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547646719164" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Mybatis/src/main/resources/logback.log" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Mybatis/src/main/resources/logback.log" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\util" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\cases" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\resources" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MySpringMyBatisTestNg\src\main\resources" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.course.util" />
+      <recent name="com.course.cases" />
+      <recent name="com.course.model" />
+      <recent name="com.testng.extendReport.demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main\java\com\testng\extendReport\demo" />
       <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main" />
       <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.testng.extendReport.demo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Mybatis\src\main\resources" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\mybatis\src\main\java\com\course\model" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter5\src\main\resources" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter5\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -580,58 +732,16 @@
     </option>
     <option name="contentProportion" value="0.17078826" />
   </component>
-  <component name="RunManager" selected="Spring Boot.Application">
-    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello" />
-      <module name="Springbootdemo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mybatis" />
+  <component name="RunManager" selected="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml">
+    <configuration name="application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="MySpringMyBatisTestNg" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.course.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Springbootdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Mybatis" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.Application" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Springbootdemo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="Springbootdemo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="demo.Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -646,17 +756,119 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CookiesforPost.postwithCookies" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HttpClient" />
+    <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetUserInfoTest.getUserInfo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="PATTERN" value="com.course.cases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
-      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.CookiesforPost" />
-      <option name="METHOD_NAME" value="postwithCookies" />
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.GetUserInfoTest" />
+      <option name="METHOD_NAME" value="getUserInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.Login" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.Login" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginTrue" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <option name="METHOD_NAME" value="loginTrue" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.loginTrue" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MybatisUseMysql" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.Login" />
+      <option name="METHOD_NAME" value="loginTrue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -677,21 +889,24 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.Login" />
       <item itemvalue="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" />
       <item itemvalue="TestNG.TestAssertDemo.test1" />
-      <item itemvalue="Application.hello" />
-      <item itemvalue="Spring Boot.Application" />
-      <item itemvalue="Spring Boot.Application (1)" />
-      <item itemvalue="TestNG.CookiesforPost.postwithCookies" />
-      <item itemvalue="Spring Boot.Application (2)" />
+      <item itemvalue="TestNG.LoginTest" />
+      <item itemvalue="TestNG.LoginTest.loginTrue" />
+      <item itemvalue="TestNG.Login.loginTrue" />
+      <item itemvalue="Spring Boot.application" />
+      <item itemvalue="TestNG.Login (1)" />
+      <item itemvalue="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.GetUserInfoTest.getUserInfo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.Application" />
-        <item itemvalue="Spring Boot.Application (2)" />
-        <item itemvalue="Spring Boot.Application (1)" />
-        <item itemvalue="Spring Boot.Application (1)" />
-        <item itemvalue="Application.hello" />
+        <item itemvalue="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.GetUserInfoTest.getUserInfo" />
+        <item itemvalue="Spring Boot.application" />
+        <item itemvalue="TestNG.Login (1)" />
+        <item itemvalue="TestNG.Login.loginTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -712,44 +927,73 @@
       <workItem from="1546662924119" duration="190000" />
       <workItem from="1546663294833" duration="564000" />
       <workItem from="1546664075585" duration="1819000" />
-      <workItem from="1546666185070" duration="10207000" />
+      <workItem from="1546666185070" duration="13812000" />
+      <workItem from="1546777792916" duration="173000" />
+      <workItem from="1546778119178" duration="355000" />
+      <workItem from="1546778561364" duration="568000" />
+      <workItem from="1546779607453" duration="8217000" />
+      <workItem from="1546829646904" duration="9127000" />
+      <workItem from="1546869255418" duration="3038000" />
+      <workItem from="1546873376542" duration="610000" />
+      <workItem from="1546958485062" duration="485000" />
+      <workItem from="1547037807586" duration="1140000" />
+      <workItem from="1547123549246" duration="3838000" />
+      <workItem from="1547127522053" duration="16068000" />
+      <workItem from="1547383839991" duration="7245000" />
+      <workItem from="1547391272330" duration="368000" />
+      <workItem from="1547463976191" duration="24842000" />
     </task>
+    <task id="LOCAL-00001" summary="mybatis的第一个demo">
+      <created>1546696808708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546696808708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mybatis的第一个demo">
+      <created>1546775533231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546775533231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CookiesforPost_testPostCookies - 2018.12.31 at 17h 59m 40s.xml">
-      <configuration name="CookiesforPost.testPostCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 40m 28s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_testPostCookies - 2018.12.31 at 18h 05m 44s.xml">
-      <configuration name="CookiesforPost.testPostCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 40m 44s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_postwithCookies - 2018.12.31 at 18h 09m 09s.xml">
-      <configuration name="CookiesforPost.postwithCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 45m 45s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_postwithCookies - 2018.12.31 at 18h 10m 41s.xml">
-      <configuration name="CookiesforPost.postwithCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 45m 50s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_postwithCookies - 2018.12.31 at 18h 11m 07s.xml">
-      <configuration name="CookiesforPost.postwithCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 47m 17s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_testPostCookies - 2019.01.01 at 17h 34m 15s.xml">
-      <configuration name="CookiesforPost.testPostCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 47m 39s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_postwithCookies - 2019.01.01 at 17h 39m 33s.xml">
-      <configuration name="CookiesforPost.postwithCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 49m 32s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="CookiesforPost_postwithCookies - 2019.01.01 at 17h 40m 23s.xml">
-      <configuration name="CookiesforPost.postwithCookies" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 50m 08s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_Chapter5_src_main_resources_groupsOnClass_xml - 2019.01.03 at 20h 43m 03s.xml">
-      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 51m 44s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_Chapter5_src_main_resources_groupsOnClass_xml - 2019.01.03 at 20h 44m 03s.xml">
-      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/Chapter5/src/main/resources/groupsOnClass.xml" configurationId="TestNG" />
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 51m 55s.xml">
+      <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73749000" />
+    <option name="totallyTimeSpent" value="153428000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -762,9 +1006,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="736" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2980333" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -775,27 +1020,28 @@
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32840723" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.1592775" />
-      <window_info anchor="bottom" id="Run" order="4" weight="0.54351395" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.30706075" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49924356" visible="true" weight="0.36617404" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49924356" weight="0.6600985" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Run Dashboard" order="8" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run Dashboard" order="8" sideWeight="0.85476553" weight="0.6929392" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32840723" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32840723" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.36124796" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.25615764" />
-      <window_info anchor="right" id="Bean Validation" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" visible="true" weight="0.037821483" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" weight="0.06051437" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.318555" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.42200327" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50075644" side_tool="true" weight="0.5566502" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49621785" weight="0.35139573" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.13300492" side_tool="true" weight="0.0" />
+      <window_info anchor="right" id="Bean Validation" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.037821483" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.8669951" weight="0.17268446" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -831,655 +1077,399 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="mybatis的第一个demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="mybatis的第一个demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/cookie/CookieSpecRegistry.class">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/databaseConfig.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/io/Resources.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        <state relative-caret-position="101">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/annotation/GuardedBy.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13.jar!/org/apache/catalina/connector/ResponseFacade.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="97">
+          <caret line="188" selection-start-line="188" selection-end-line="188" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/impl/client/AbstractHttpClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="252" column="50" selection-start-line="252" selection-start-column="50" selection-end-line="252" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/client/CookieStore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/org/apache/http/HttpMessage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/org/apache/http/util/CharArrayBuffer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/org/apache/http/FormattedHeader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/org/apache/http/message/BasicHeader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar!/org/apache/http/Header.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Moco/startupWhitCookies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="72" column="24" selection-start-line="72" selection-start-column="24" selection-end-line="72" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3198">
-          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGExtendReport/pom.xml">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestNGMethod/Chapter5.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/springDemo.java" />
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/Springbootdemo.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13.jar!/org/apache/catalina/connector/Response.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="90">
+          <caret line="472" selection-start-line="472" selection-end-line="472" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/hello.java" />
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/application1.java" />
-    <entry file="uml://SpringLocalModels/module=Springbootdemo">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>SpringLocalModels</ID>
-          <OriginalElement>module=Springbootdemo</OriginalElement>
-          <nodes>
-            <node x="" y="">module=Springbootdemo</node>
-            <node x="" y="">fileset=Springbootdemo/Application</node>
-            <node x="" y="">Application</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.neo4j.Neo4jRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SecurityRequestMatcherProviderAutoConfiguration.MvcRequestMatcherConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.UndertowWebSocketConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisConnectionFactoryConfiguration.PooledConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.JpaWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperBuilderConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.redis.LettuceConnectionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.activemq.ActiveMQAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.mongo.MongoDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.webservices.WebServicesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.EmbeddedDataSourceConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionAutoConfiguration.ReactiveSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.JdbcSessionConfiguration.SpringBootJdbcHttpSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration.FlywayConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.elasticsearch.rest.RestClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.aop.AopAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.rest.RepositoryRestMvcAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration.MappingJackson2HttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.couchbase.CouchbaseAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.freemarker.FreeMarkerNonWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.freemarker.FreeMarkerServletWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.JettyWebSocketConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafDefaultConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration.LiquibaseJpaDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafWebMvcConfiguration.ThymeleafViewResolverConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationJdbcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.reactive.ReactiveOAuth2ResourceServerJwkConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration.FlywayJdbcOperationsDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.elasticsearch.jest.JestAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.error.ErrorWebFluxAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mail.MailSenderJndiConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.UndertowWebServerFactoryCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.ldap.LdapRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.neo4j.Neo4jBookmarkManagementConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.JndiJtaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionAutoConfiguration.ReactiveSessionConfiguration.ReactiveSessionRepositoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.batch.BatchConfigurerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketMessagingAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.NamedParameterJdbcTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseReactiveDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.GenericCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hateoas.HypermediaAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.cassandra.CassandraRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.scheduling.annotation.ProxyAsyncConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.sendgrid.SendGridAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastClientConfiguration.HazelcastClientConfigFileConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.LoggingCodecConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.TomcatWebServerFactoryCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.mongo.MongoReactiveDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hateoas.HypermediaAutoConfiguration.HypermediaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration.EmbeddedJetty</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.aop.AopAutoConfiguration.JdkDynamicAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SecurityRequestMatcherProviderAutoConfiguration.JerseyRequestMatcherConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.client.reactive.ReactiveOAuth2ClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.mongo.MongoRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SpringBootWebSecurityConfiguration.DefaultConfigurerAdapter</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.MongoSessionConfiguration.SpringBootMongoHttpSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration.EnableWebFluxSecurityConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.reactive.ReactiveOAuth2ResourceServerWebSecurityConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.SecurityDataConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.solr.SolrAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.EmbeddedDatabaseConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.activemq.ActiveMQConnectionFactoryConfiguration.PooledConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAnnotationDrivenConfiguration.EnableRabbitConfiguration</node>
-            <node x="" y="">org.springframework.scheduling.annotation.SchedulingConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.cassandra.CassandraReactiveDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration.CommonsDbcp2PoolDataSourceMetadataProviderConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisEmbeddedServerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastClientConfiguration.HazelcastClientConfigConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.NoOpReactiveSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mustache.MustacheAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.mongo.MongoReactiveRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.HazelcastCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.MongoSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration.TomcatWebSocketConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.MongoReactiveAutoConfiguration.NettyDriverConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.JdbcSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.couchbase.CouchbaseConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.freemarker.FreeMarkerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.DefaultTemplateResolverConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.MongoReactiveSessionConfiguration.SpringBootReactiveMongoWebSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.SpringBootApplication</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafWebFluxConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafWebLayoutConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionRepositoryFilterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration.DataSourceTransactionManagerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.HttpHandlerAutoConfiguration.AnnotationConfig</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jsonb.JsonbAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration.GroovyWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration.LiquibaseConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.NoOpCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.neo4j.Neo4jDataAutoConfiguration.Neo4jWebConfiguration.Neo4jWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.redis.RedisRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAnnotationDrivenConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafReactiveConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.JsonbHttpMessageConvertersConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAutoConfiguration.JmsTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SecurityRequestMatcherProviderAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchAutoConfiguration</node>
-            <node x="" y="">org.springframework.web.servlet.config.annotation.DelegatingWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.HttpHandlerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.HazelcastJCacheCustomizationConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.CouchbaseCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.InfinispanCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerWebSecurityConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.CaffeineCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationComponentScanConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2WebSecurityConfiguration.OAuth2WebSecurityConfigurerAdapter</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseConfigurerAdapterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafSecurityDialectConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.UserDetailsServiceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.ThymeleafJava8TimeDialect</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.reactive.WebSocketReactiveAutoConfiguration.TomcatWebSocketConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.redis.RedisReactiveAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.quartz.QuartzAutoConfiguration.JdbcStoreTypeConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration.HikariPoolDataSourceMetadataProviderConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.NoOpSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration.StringHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration.FlywayConfiguration.FlywayInitializerJpaDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cloud.CloudServiceConnectorsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration.MappingJackson2XmlHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.mongo.MongoDataConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationJmxConfiguration</node>
-            <node x="" y="">org.springframework.context.annotation.MBeanExportConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hateoas.HypermediaAutoConfiguration.EntityLinksConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.Jackson2ObjectMapperBuilderCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.DefaultErrorViewResolverConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration.SpringBootJdbcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.WebClientAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration.PooledDataSourceConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration.DataAttributeDialectConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.MongoReactiveAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration.TomcatDataSourcePoolMetadataProviderConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.ReactiveWebServerFactoryConfiguration.EmbeddedJetty</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.HazelcastSessionConfiguration.SpringBootHazelcastHttpSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.kafka.KafkaAnnotationDrivenConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastJpaDependencyAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SpringBootWebSecurityConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.JsonbHttpMessageConvertersConfiguration.JsonbHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.thymeleaf.ThymeleafAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration.MessagingTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.batch.BatchConfigurerConfiguration.JpaBatchConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.SpringBootCouchbaseReactiveDataConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.redis.JedisConnectionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.quartz.QuartzAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration.TomcatDataSourceJmxConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration.RabbitConnectionFactoryCreator</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.GsonHttpMessageConvertersConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.WebFluxAutoConfiguration.ResourceChainCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.AtomikosJtaConfiguration.AtomikosJtaJmsConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JodaDateTimeJacksonConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorConfiguration.JettyClient</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.MongoReactiveSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.solr.SolrRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JndiConnectionFactoryAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.JacksonObjectMapperConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.neo4j.Neo4jDataAutoConfiguration.Neo4jWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.SpringBootCouchbaseDataConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastServerConfiguration.HazelcastServerConfigConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.reactive.ReactiveOAuth2ResourceServerAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mustache.MustacheServletWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration.EmbeddedReactiveMongoDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.amqp.RabbitAutoConfiguration.RabbitTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorConfiguration.ReactorNetty</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationManagementConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration.EmbeddedMongoDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.TransactionTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration.JdbcRepositoriesConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceInitializationConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletRegistrationConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration.EmbeddedUndertow</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.reactive.ReactiveUserDetailsServiceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.ParameterNamesModuleConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.elasticsearch.rest.RestClientAutoConfiguration.RestHighLevelClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.ResourceChainCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.EhCacheCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cassandra.CassandraAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.gson.GsonAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.activemq.ActiveMQConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mail.MailSenderAutoConfiguration</node>
-            <node x="" y="">org.springframework.context.annotation.LoadTimeWeavingConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.SimpleCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration.RuntimeConfigConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.groovy.template.GroovyTemplateAutoConfiguration.GroovyMarkupConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2WebSecurityConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.cassandra.CassandraReactiveRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.GsonHttpMessageConvertersConfiguration.GsonHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.webservices.client.WebServiceTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration.Hikari</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerJwkConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.webservices.WebServicesAutoConfiguration.WsConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.JCacheCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.WebFluxAutoConfiguration.WebFluxConfig</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.aop.AopAutoConfiguration.CglibAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.ReactiveWebServerFactoryAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastServerConfiguration.HazelcastServerConfigFileConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.JettyWebServerFactoryCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.XADataSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAutoConfiguration.MessagingTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisConnectionFactoryConfiguration.SimpleConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.RedisReactiveSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.artemis.ArtemisXAConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.freemarker.FreeMarkerReactiveWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration.DispatcherServletConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.HazelcastSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration.JdkDynamicAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration.JdbcTemplateConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionAutoConfiguration.ServletSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.RedisCacheConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.ldap.LdapAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastServerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.RedisSessionConfiguration.SpringBootRedisHttpSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.SecurityFilterAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.batch.BatchConfigurerConfiguration.JdbcBatchConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAnnotationDrivenConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.activemq.ActiveMQXAConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mustache.MustacheReactiveWebConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration.FlywayJpaDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.batch.BatchAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hateoas.HypermediaHttpMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jdbc.JndiDataSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jooq.JooqAutoConfiguration.DslContextConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration.FlywayConfiguration.FlywayInitializerJdbcOperationsDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.JpaWebConfiguration.JpaWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.AtomikosJtaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.cache.CacheAutoConfiguration.CacheManagerJpaDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.reactive.WebSocketReactiveAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jersey.JerseyAutoConfiguration.JacksonResourceConfigCustomizer</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.neo4j.Neo4jDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration.NettyWebServerFactoryCustomizerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.RedisReactiveSessionConfiguration.SpringBootRedisWebSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jooq.JooqAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration.JacksonCodecConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.elasticsearch.ElasticsearchDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.activemq.ActiveMQConnectionFactoryConfiguration.SimpleConnectionFactoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.BitronixJtaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mail.MailSenderValidatorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.kafka.KafkaAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.cassandra.CassandraDataAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.kafka.KafkaAnnotationDrivenConfiguration.EnableKafkaConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.ReactiveWebServerFactoryConfiguration.EmbeddedNetty</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.ClientHttpConnectorAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.websocket.servlet.WebSocketMessagingAutoConfiguration.WebSocketMessageConverterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.couchbase.CouchbaseAutoConfiguration.DefaultCouchbaseConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.function.client.WebClientAutoConfiguration.WebClientCodecsConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.integration.IntegrationAutoConfiguration.IntegrationManagementConfiguration.EnableIntegrationManagementConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.reactor.core.ReactorCoreAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.RedisSessionConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.servlet.WebSecurityEnablerConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.admin.SpringApplicationAdminJmxAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.jta.BitronixJtaConfiguration.BitronixJtaJmsConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.hazelcast.HazelcastClientConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration.EmbeddedTomcat</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.WebFluxAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.kafka.KafkaStreamsAnnotationDrivenConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.WebMvcAutoConfigurationAdapter.FaviconConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAnnotationDrivenConfiguration.JndiConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.WebFluxAutoConfiguration.EnableWebFluxConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.liquibase.LiquibaseAutoConfiguration.LiquibaseJdbcOperationsDependencyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.session.SessionAutoConfiguration.ServletSessionConfiguration.ServletSessionRepositoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerWebSecurityConfiguration.OAuth2WebSecurityConfigurerAdapter</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.influx.InfluxDbAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.security.oauth2.client.servlet.OAuth2ClientRegistrationRepositoryConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseDataAutoConfiguration.ValidationConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAnnotationDrivenConfiguration.EnableJmsConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.jms.JmsAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.web.servlet.support.ErrorPageFilterConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration.EnableTransactionManagementConfiguration.CglibAutoProxyConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.reactive.ReactiveWebServerFactoryConfiguration.EmbeddedTomcat</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.data.couchbase.CouchbaseReactiveRepositoriesAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.ldap.embedded.EmbeddedLdapAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.EnableWebMvcConfiguration</node>
-            <node x="" y="">org.springframework.cache.annotation.ProxyCachingConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.WhitelabelErrorViewConfiguration</node>
-            <node x="" y="">org.springframework.boot.autoconfigure.mail.MailSenderPropertiesConfiguration</node>
-            <node x="" y="">fileset=Springbootdemo/Application MVC</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.01640940741101427" x="486.0" y="10258.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Show filesets as groups</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/model/test.java" />
-    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/src/main/java/com/course/httpclient/cookies/CookiesforPost.java">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/demo/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/demo/model/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="194">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyPost.java">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/ConfigFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="550">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/src/main/java/com/course/httpclient/demo/httpclientDemo.java">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="450">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/src/main/java/com/course/httpclient/cookies/CookiesforGet.java">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/AddUserCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="196">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserInfoCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/pom.xml">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/InterfaceName.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        <state relative-caret-position="75">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml" />
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/com/course/model/User.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java" />
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" />
-    <entry file="file://$PROJECT_DIR$/Springbootdemo/src/main/java/demo/Application.java">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/userManager.log.2019-01-10">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/userManager.log.2019-01-13">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-60781" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
+          <folding>
+            <element signature="n#select#0;n#mapper#0;n#!!top" />
+            <element signature="n#select#2;n#mapper#0;n#!!top" />
+            <element signature="n#select#3;n#mapper#0;n#!!top" />
+            <element signature="n#select#5;n#mapper#0;n#!!top" />
+            <element signature="n#select#7;n#mapper#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="67" column="9" lean-forward="true" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/HttpClient.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HttpClient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/Mybatis.iml">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserListCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-356" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/logback.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        <state relative-caret-position="123">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/model/mysql.xml">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="225">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.1.RELEASE/spring-boot-dependencies-2.1.1.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/controller/UserManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62650">
-          <caret line="2506" column="12" selection-start-line="2506" selection-start-column="12" selection-end-line="2506" selection-end-column="12" />
+        <state relative-caret-position="-350">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/UpdateUserInfoCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="245">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/application.yaml">
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/TestConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/event.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/mylog.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="7" lean-forward="true" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/mybatis-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/resources/mapper/mysql.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" />
+        <state relative-caret-position="25">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" />
+        <state relative-caret-position="113">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" selection-start-line="13" selection-start-column="2" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/LoginCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/collections/ArrayIterator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
+          <folding>
+            <element signature="e#52271#52272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="3180" selection-start-line="3180" selection-end-line="3180" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="349" column="16" selection-start-line="349" selection-start-column="16" selection-end-line="349" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="296" column="16" selection-start-line="296" selection-start-column="16" selection-end-line="296" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#2034#2035#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="966" column="49" selection-start-line="966" selection-start-column="49" selection-end-line="966" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="904" selection-start-line="904" selection-end-line="904" />
+          <folding>
+            <element signature="e#32680#32681#0" expanded="true" />
+            <element signature="e#32726#32727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="500" selection-start-line="500" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+          <folding>
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-259">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1535,11 +1525,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|Mybatis</last-edited>
+          <last-edited>MybatisUseMysql</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
