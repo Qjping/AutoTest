@@ -2,79 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8521100-a19b-4fb4-bcda-13150b4f5f4c" name="Default Changelist" comment="mybatis的第一个demo">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/controller/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/MybatisUseMysql.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/TestNGMyBatisSpringBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/ExtentTestNGIReporterListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/TestConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/AddUserCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserListCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/InterfaceName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/LoginCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/UpdateUserInfoCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/ConfigFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/moco-runner-0.11.0-standalone.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/userManager.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MybatisUseMysql/userManager.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyGet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Springbootdemo/src/main/java/demo/server/MyPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/event.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/mylog.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/userManager.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../confi" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../id_rsa" beforeDir="false" afterPath="$PROJECT_DIR$/../../../id_rsa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../id_rsa.pub" beforeDir="false" afterPath="$PROJECT_DIR$/../../../id_rsa.pub" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mybatis/src/main/java/com/course/controller/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/HttpClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/HttpClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/cookies/CookiesforGet.class" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/cookies/CookiesforGet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/demo/httpclientDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/HttpClient/target/classes/com/course/httpclient/demo/httpclientDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moco/startupWhitCookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/MybatisUseMysql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisUseMysql/MybatisUseMysql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/TestNGMyBatisSpringBoot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisUseMysql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MybatisUseMysql/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MybatisUseMysql/test-output/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/Chapter8.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestNGExtendReport/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/src/main/java/com/testng/extendReport/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/ExtentTestNGIReporterListenerOld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/TestMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/com/testng/extendReport/demo/TestMethodDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGExtendReport/target/classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGExtendReport/target/classes/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/Chapter5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/Paramter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/Paramter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/groupsOnClass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/groupsOnClass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/multiThread.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/multiThread.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNGMethod/target/classes/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNGMethod/target/classes/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/userManager.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/userManager.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter6/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter6/.idea/misc.xml" beforeDir="false" />
@@ -138,15 +118,18 @@
     <session id="-828254510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.46" value="1" />
@@ -155,7 +138,7 @@
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.57" value="1" />
           <entry key="project.open.time.90" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -164,11 +147,11 @@
           <entry key="2019-01-13" value="1" />
           <entry key="SQLMapper" value="9" />
           <entry key="SpringLocalModels/module=Springbootdemo" value="1" />
-          <entry key="class" value="109" />
+          <entry key="class" value="110" />
           <entry key="databaseConfig" value="7" />
           <entry key="html" value="13" />
-          <entry key="iml" value="16" />
-          <entry key="java" value="329" />
+          <entry key="iml" value="17" />
+          <entry key="java" value="330" />
           <entry key="json" value="12" />
           <entry key="log" value="3" />
           <entry key="pom" value="4" />
@@ -176,7 +159,7 @@
           <entry key="startuoHeader" value="1" />
           <entry key="startupWhitCookies" value="1" />
           <entry key="testng" value="10" />
-          <entry key="xml" value="133" />
+          <entry key="xml" value="140" />
           <entry key="yaml" value="8" />
           <entry key="yml" value="3" />
           <entry key="基本操作说明" value="6" />
@@ -184,15 +167,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="109" />
+          <entry key="CLASS" value="110" />
           <entry key="HTML" value="13" />
-          <entry key="IDEA_MODULE" value="16" />
-          <entry key="JAVA" value="329" />
+          <entry key="IDEA_MODULE" value="17" />
+          <entry key="JAVA" value="330" />
           <entry key="JSON" value="12" />
           <entry key="PLAIN_TEXT" value="13" />
           <entry key="Properties" value="17" />
           <entry key="UML" value="1" />
-          <entry key="XML" value="163" />
+          <entry key="XML" value="170" />
           <entry key="YAML" value="11" />
         </counts>
       </usages-collector>
@@ -202,12 +185,12 @@
           <entry key="databaseConfig" value="1" />
           <entry key="dummy" value="6" />
           <entry key="html" value="5" />
-          <entry key="java" value="8767" />
+          <entry key="java" value="8792" />
           <entry key="json" value="66" />
           <entry key="properties" value="53" />
           <entry key="testng" value="27" />
-          <entry key="txt" value="15" />
-          <entry key="xml" value="3122" />
+          <entry key="txt" value="21" />
+          <entry key="xml" value="3762" />
           <entry key="yaml" value="864" />
           <entry key="yml" value="8" />
         </counts>
@@ -215,12 +198,12 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="5" />
-          <entry key="JAVA" value="8767" />
+          <entry key="JAVA" value="8792" />
           <entry key="JSON" value="66" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="PLAIN_TEXT" value="27" />
           <entry key="Properties" value="53" />
-          <entry key="SQL" value="26" />
-          <entry key="XML" value="3215" />
+          <entry key="SQL" value="27" />
+          <entry key="XML" value="3854" />
           <entry key="YAML" value="872" />
         </counts>
       </usages-collector>
@@ -233,49 +216,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="500" selection-start-line="500" selection-end-line="500" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-259">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
+            <state relative-caret-position="1475">
               <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -285,28 +229,63 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/AbstractCollection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="39" />
+            <state relative-caret-position="775">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="45" selection-start-line="45" selection-end-line="87" selection-end-column="16" />
+              <folding>
+                <element signature="e#358#1679#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -314,7 +293,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
+            <state relative-caret-position="175">
               <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
@@ -323,7 +302,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-384">
+            <state relative-caret-position="2000">
               <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
               <folding>
                 <element signature="e#13541#13542#0" expanded="true" />
@@ -358,7 +337,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/crotroller/Demo.java" />
         <option value="$PROJECT_DIR$/Mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/resources/application.yaml" />
         <option value="$PROJECT_DIR$/Mybatis/src/main/java/com/course/Application.java" />
@@ -383,9 +361,7 @@
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java" />
-        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" />
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/application.yaml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/LoginTest.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/config/TestConfig.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng" />
@@ -395,12 +371,10 @@
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/DatabaseUtil.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/databaseConfig.xml" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/MybatisUseMysql/pom.xml" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/AddUserCase.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/UpdateUserInfoCase.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/GetUserListCase.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java" />
-        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" />
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml" />
         <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/model/User.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/User.java" />
@@ -408,7 +382,12 @@
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml" />
         <option value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/profiles.xml" />
+        <option value="$PROJECT_DIR$/MybatisUseMysql/pom.xml" />
+        <option value="$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml" />
       </list>
     </option>
   </component>
@@ -435,22 +414,20 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MybatisUseMysql" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="AutoTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="MybatisUseMysql" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="MySpringMyBatisTestNg" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="27" />
-    <option name="y" value="23" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
+    <option name="x" value="-3" />
+    <option name="width" value="689" />
+    <option name="height" value="731" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -461,6 +438,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -471,103 +449,6 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="cases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MybatisUseMysql" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -599,66 +480,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="course" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="MySpringMyBatisTestNg" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -679,28 +506,26 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547646719164" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547736015295" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AutoTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main\java\com\testng\extendReport\demo" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\util" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\cases" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\resources" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MySpringMyBatisTestNg\src\main\resources" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.course.util" />
@@ -708,10 +533,12 @@
       <recent name="com.course.model" />
       <recent name="com.testng.extendReport.demo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main\java\com\testng\extendReport\demo" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\Chapter8\src\main" />
-      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\util" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\java\com\course\cases" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql\src\main\resources" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MySpringMyBatisTestNg\src\main\resources" />
+      <recent name="C:\Users\Administrator\.ssh\workspace\muke\AutoTest\MybatisUseMysql" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -903,8 +730,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" />
-        <item itemvalue="TestNG.GetUserInfoTest.getUserInfo" />
         <item itemvalue="Spring Boot.application" />
+        <item itemvalue="TestNG.GetUserInfoTest.getUserInfo" />
         <item itemvalue="TestNG.Login (1)" />
         <item itemvalue="TestNG.Login.loginTrue" />
       </list>
@@ -941,7 +768,12 @@
       <workItem from="1547127522053" duration="16068000" />
       <workItem from="1547383839991" duration="7245000" />
       <workItem from="1547391272330" duration="368000" />
-      <workItem from="1547463976191" duration="24842000" />
+      <workItem from="1547463976191" duration="25639000" />
+      <workItem from="1547729314265" duration="733000" />
+      <workItem from="1547730134995" duration="4137000" />
+      <workItem from="1547734337669" duration="1762000" />
+      <workItem from="1547736135292" duration="1571000" />
+      <workItem from="1547880315531" duration="723000" />
     </task>
     <task id="LOCAL-00001" summary="mybatis的第一个demo">
       <created>1546696808708</created>
@@ -957,43 +789,50 @@
       <option name="project" value="LOCAL" />
       <updated>1546775533231</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="接口自动化">
+      <created>1547646794394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547646794394</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 40m 28s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 21h 19m 04s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 40m 44s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 21h 19m 18s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 45m 45s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 21h 24m 56s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 45m 50s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 21h 27m 12s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 47m 17s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 21h 30m 36s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 47m 39s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 22h 10m 18s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 49m 32s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 22h 15m 04s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 50m 08s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 22h 15m 51s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 51m 44s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 22h 16m 33s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.16 at 21h 51m 55s.xml">
+    <history-entry file="C__Users_Administrator__ssh_workspace_muke_AutoTest_MybatisUseMysql_src_main_resources_testng_xml - 2019.01.17 at 22h 19m 44s.xml">
       <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/MybatisUseMysql/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153428000" />
+    <option name="totallyTimeSpent" value="163151000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1006,10 +845,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="736" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2730711" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -1020,16 +858,16 @@
       <window_info anchor="bottom" id="Spring" order="1" weight="0.32840723" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.1592775" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49924356" visible="true" weight="0.36617404" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49924356" weight="0.31034482" />
       <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49924356" weight="0.6600985" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Run Dashboard" order="8" sideWeight="0.85476553" weight="0.6929392" />
+      <window_info anchor="bottom" id="Run Dashboard" order="8" sideWeight="0.85476553" weight="0.40722495" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32840723" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.318555" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4969743" visible="true" weight="0.6584565" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.42200327" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50075644" side_tool="true" weight="0.5566502" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5030257" side_tool="true" weight="0.5566502" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49621785" weight="0.35139573" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.13300492" side_tool="true" weight="0.0" />
       <window_info anchor="right" id="Bean Validation" order="1" />
@@ -1041,7 +879,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.8669951" weight="0.17268446" />
+      <window_info anchor="right" id="Maven Projects" order="10" sideWeight="0.8669951" visible="true" weight="0.32980332" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1078,7 +916,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mybatis的第一个demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="mybatis的第一个demo" />
+    <MESSAGE value="接口自动化" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口自动化" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1100,32 +939,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/databaseConfig.xml" />
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/util/databaseConfig.xml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/io/Resources.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13.jar!/org/apache/catalina/connector/ResponseFacade.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.13/tomcat-embed-core-9.0.13.jar!/org/apache/catalina/connector/Response.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="472" selection-start-line="472" selection-end-line="472" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -1140,16 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1199,20 +1002,6 @@
         <state relative-caret-position="-60781" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="91" column="17" lean-forward="true" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
-          <folding>
-            <element signature="n#select#0;n#mapper#0;n#!!top" />
-            <element signature="n#select#2;n#mapper#0;n#!!top" />
-            <element signature="n#select#3;n#mapper#0;n#!!top" />
-            <element signature="n#select#5;n#mapper#0;n#!!top" />
-            <element signature="n#select#7;n#mapper#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/resources/mapper/mysql.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -1231,9 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1241,13 +1027,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1269,9 +1048,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1299,13 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/model/LoginCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1317,9 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#538#539#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1327,9 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="1335" selection-start-line="1335" selection-end-line="1335" />
-          <folding>
-            <element signature="e#52271#52272#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1337,10 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="3180" selection-start-line="3180" selection-end-line="3180" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1369,9 +1128,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="67">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#2034#2035#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1386,10 +1142,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="904" selection-start-line="904" selection-end-line="904" />
-          <folding>
-            <element signature="e#32680#32681#0" expanded="true" />
-            <element signature="e#32726#32727#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,23 +1159,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
+        <state relative-caret-position="11425">
           <caret line="500" selection-start-line="500" selection-end-line="500" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/mapper/SQLMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/TestNGMyBatisSpringBoot/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/profiles.xml" />
     <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/UpdateUserInfoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
+        <state relative-caret-position="350">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
+        <state relative-caret-position="1475">
           <caret line="74" column="52" selection-start-line="74" selection-start-column="52" selection-end-line="74" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1431,9 +1213,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/MySpringMyBatisTestNg.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/src/main/java/com/course/application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
+        <state relative-caret-position="2000">
           <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
           <folding>
             <element signature="e#13541#13542#0" expanded="true" />
@@ -1442,34 +1269,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/org/json/JSONArray.class">
+    <entry file="file://$PROJECT_DIR$/MySpringMyBatisTestNg/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/GetUserInfoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-259">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="25">
+          <caret line="45" selection-start-line="45" selection-end-line="87" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#358#1679#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MybatisUseMysql/src/main/java/com/course/cases/AddUserTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="35" column="7" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1525,7 +1331,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>MybatisUseMysql</last-edited>
+          <last-edited>AutoTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

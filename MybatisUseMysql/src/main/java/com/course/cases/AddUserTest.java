@@ -33,7 +33,7 @@ public class AddUserTest {
          * 可以先讲
          */
         //查询用户看是否添加成功
-        Thread.sleep(2000);
+        //Thread.sleep(2000);
         User user = session.selectOne("addUser",addUserCase);
         System.out.println(user.toString());
 

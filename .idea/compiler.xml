@@ -17,15 +17,20 @@
         <module name="Springbootdemo" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="10">
       <module name="AutoTest" target="1.8" />
       <module name="Chapter5" target="1.8" />
       <module name="Chapter8" target="1.8" />
       <module name="HttpClient" target="1.8" />
       <module name="Mybatis" target="1.8" />
-      <module name="MybatisUseMysql" target="1.6" />
+      <module name="MybatisUseMysql" target="1.8" />
       <module name="MySpringMyBatisTestNg" target="1.8" />
       <module name="Springbootdemo" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MySpringMyBatisTestNg" options="" />
+    </option>
   </component>
 </project>

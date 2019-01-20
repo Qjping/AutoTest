@@ -41,7 +41,8 @@
         and sex=#{sex}
         and age=#{age}
         and permission=#{permission}
-        and isDelete=#{isDelete};
+        and isDelete=#{isDelete}
+        limit 1;
 
     </select>
 
